@@ -1,2 +1,4 @@
-![Captura de Tela 2024-05-09 à(s) 16 28 31](https://github.com/arefdeveloper91/SwiftQuiz/assets/149487876/98b7aed3-5790-4681-9708-d6b14fc27d0e)
-![Captura de Tela 2024-05-09 à(s) 16 37 02](https://github.com/arefdeveloper91/SwiftQuiz/assets/149487876/8a928817-aee6-4fa6-ba2a-68eecd69312d)
+
+![tela inicial](https://github.com/arefdeveloper91/SwiftQuiz/assets/149487876/155cdf82-e951-4097-bbe4-b93f52b5d8fd)
+![perguntas](https://github.com/arefdeveloper91/SwiftQuiz/assets/149487876/db7ad11f-e37b-4d5a-8839-b901409e998b)
+![porcentagem](https://github.com/arefdeveloper91/SwiftQuiz/assets/149487876/a0bef850-b998-4282-982e-d6c519afcd1f)
